@@ -1,3 +1,9 @@
-name: Your New Jekyll Site
+name: ZVGQ Project Site
+url: zvgq.github.io
 markdown: redcarpet
 pygments: true
+timezone: America/Winnipeg
+
+theme:
+  # Google Analytics key, leave blank to ignore
+  google_analytics_key: UA-40152449-3
